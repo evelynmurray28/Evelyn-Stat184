@@ -1,62 +1,45 @@
 ---
 title: "Markdown Class Schedule"
-author: "Matthew Beckman"
-date: "September 5, 2018"
+author: "Evelyn Ruth Murray"
+date: "February 4, 2020"
 output: 
   html_notebook:
     fig_height: 3
     fig_width: 5
 ---
 
+# Class Schedule
 
-# Grading (Yours doesn't need this part)
+### ECON 104: Introduction to Macroeconomics
 
+This course meets the Bachelor of Arts degree requirements. Economics is the study of how people satisfy their wants in the face of limited resources. One way to think about economics is that it is a consistent set of methods and tools that is valuable in analyzing certain types of problems related to decision-making, resource allocation, and the production and distribution of goods and services. There are two main branches of economics, microeconomics, and macroeconomics. Microeconomics deals with the behavior of individual households and firms and how that behavior is influenced by government. Macroeconomics is concerned with economy-wide factors such as inflation, unemployment, and overall economic growth; it is the subject of this course.More specifically, ECON 104 is an introduction to macroeconomic analysis and policy. The principal objective of the course is to enable students to analyze major macroeconomic issues clearly and critically. Students will be introduced to the methods and tools of economic analysis, and these analytical tools will be applied to questions of current policy interest. Broadly, the course focuses on the determination of national income, on unemployment, inflation, and economic growth in the context of a global economy, and on how monetary and fiscal policy, in particular, influence the economy. Learning the methods and tools of economics and applying them to interesting policy questions and issues is sometimes called "thinking like an economist." An important goal of this course is to take each student as far down the road of "thinking like an economist" as possible. A variety of mechanisms is used to assess student performance. These evaluation methods typically include exams, quizzes, homework assignments, and group projects.ECON 104 is an introductory course in economics, and as such, serves as a prerequisite for 300-level courses in intermediate macroeconomic analysis, international economics, and money and banking. It is also a required course for all majors and minors in economics, and meets requirements for a General Education or Bachelor of Arts Social Science (GS) course. Students who have completed ECON 304 may not enroll in this course.
 
-Assigment is worth a total of 10 points
-
-* [4 points] Turn in HTML document
-* [1 points] embedded .Rmd file (e.g. "DataComputing simple" template or R Notebook)
-* [1 point] Level 3 heading for each class (0.5 point if some classes have heading other than level 3)
-* [1 point] Two sentances about why you're taking the class (0.5 point if some classes don't include any narrative)
-* [1 point] links to the course webpage or Canvas site (0.5 point if one or two classes are missing a functional webpage or Canvas link)  
-* [1 point] links to a relevant Wikipedia (or other) article (0.5 point if some classes are missing a functional article link)    
-* [1 point] embed a relevant figure (0.5 point if one or more classes are missing an embedded link)  
-* Note: I didn't use the template or R Notebooks (i.e. embed Rmd) for mine so I could post it ahead of time without giving away the entire assignment.
+An interesting link about economics [linked here](https://www.khanacademy.org/economics-finance-domain/macroeconomics).
 
 
-# Class Schedule (Complete Example)
+![](https://d2cax41o7ahm5l.cloudfront.net/cs/trackimages/health-economics-and-macroeconomics-4-min.jpg)
 
-### PSU 016: First-Year Seminar
+### KINES 17: Ballroom Dancing
 
-This class is a chance for first-year students to get acclamated to college life.  Each department at Penn State has their own section(s) of PSU 016, so students can take the class with other first-year students in their major.  I really enjoy teaching the first-year seminar because it's a great opportunity to me to get to know the new class of Statistics Majors!  We more or less have a parade of speakers from around Penn State come and visit each week in order to tell us about some of the tools and resources available to them here at Penn State.
+KINES 17 introduces students to ballroom dance as a social/recreational or competitive activity, with the goal of leading to an active lifestyle. This course provides the basic skills and information necessary to develop and continue one's appreciation for and interest in ballroom dancing. Dance history and etiquette, cooperation with a partner, and learning the fundamental of leading/following techniques are stressed from the beginning of the semester. As different dances are introduced (i.e. FoxTrot, Waltz, Jitterbug/Swing, Cha-Cha-Cha, Tango, Salsa, etc.), additional terminology and movement patterns are included. Students must combine skills in a variety of ways: timing movement to music, executing dance relevant movements, and interacting with partners. The remainder of the class has the option of practicing or observing. Outside opportunities for dancing are encouraged within Penn State and the local community. This class involves continuous movement for cardiovascular and muscle fitness as well as stretching and strengthening of the muscles to develop and improve posture, balance, coordination and flexibility. Students explore the importance of general fitness and wellness as paths to lifetime activity participation. The weight-bearing, low-impact benefits of Ballroom Dancing allows for maintaining bone density over time. Ballroom Dancing is a lifetime activity and provides an opportunity to encourage physical activity.
 
-The PSU Canvas page is [linked here](https://psu.instructure.com/courses/1853967).
+An interesting link about ballroom dancing [linked here](https://www.liveabout.com/ballroom-dances-basics-1007205).
 
-For some reason I admit that I was a little surprised to find a Wikipedia page about first-year seminar classes at American Universities, but  [here's the link](https://en.wikipedia.org/wiki/The_First_Year_Experience_Program)!  The page doesn't currently have a picture, so a picture of Old Main seems as relevant as any other.
 
-![](http://www.amesphotos.com/psu/old_main_penn_state.jpg)
-
-### STAT 470W: Problem Solving and Communication in Applied Statistics
-
-This is the capstone course for the undergraduate statistics major at Penn State, and also fulfills a writing requirement for the major (hence, the "W").  As a capstone, students should generally take this course in their last semester before graduation.  Ideally, a capstone would minimize introduction of new content, but rather serve as an opportunity for synthesis of content learned elsewhere in the major.  A majority of the course focuses on opportunities to work through real (or realistic) case studies to help students practice critical thinking, problem solving, and technical skills needed to face ill-structured tasks they are likely to encounter on the job.  
-
-The PSU Canvas page is [linked here](https://psu.instructure.com/courses/1864367).
-
-Check out <http://thisisstatistics.org/> to find out more about what Statisticians do in the real world!
-
-![](UncleSam_image2.png)
+![](https://d2779tscntxxsw.cloudfront.net/59355fc03c52a.jpeg?width=1200&quality=80)
 
 
 
-### STAT 184: Introduction to R Programmaing
+### MATH 141: Calculus 2
 
-This course was developed and delivered for the first time in Fall 2016.  Many things about the class are admittedly quite experimental (the room we're in, the book we use, almost exclusive use of chain syntax, and even the idea of an R course with no course prerequisites), but it's actually quite cutting edge for Penn State to even have a class like this so I feel fortunate to be a part of it.  
+MATH 141 is the second course in a two- or three-course calculus sequence for students in science, engineering and related fields. Calculus is an important building block in the education of any professional who uses quantitative analysis. This course further introduces and develops the mathematical skills required for analyzing growth and change and creating mathematical models that replicate reallife phenomena. The goals of our calculus courses include to develop the students' knowledge of calculus techniques and to use the calculus environment to develop critical thinking and problem solving skills. This course covers the following topics: logarithms, exponentials, and inverse trigonometric functions; applications of the definite integral and techniques of integration; sequences and series; power series and Taylor polynomials; parametric equations and polar functions. Students may take only one course for credit from MATH 141, 141B, and 141H.
 
-The course website is <https://mdbeckman.github.io/PSU-STAT-184/>.  
 
-You can learn more about the R programming language from this [Wikipedia page](https://en.wikipedia.org/wiki/R_(programming_language)), or <https://www.r-project.org/>.  R and Python seem to be among the most popular tools for Data Science.  Here's a pretty interesting info-graphic comparing the two.  I put it last because it's so long, but I think it's interesting... spoiler alert: they're both great.
+The course website is <https://math.psu.edu/undergraduate/courses/math141>.  
 
-![](RvsPython.png)
+
+
+![](https://s2.studylib.net/store/data/014895210_1-65653424ae69d3f03150ffa8562256f5.png)
 
 
 
